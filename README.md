@@ -10,7 +10,7 @@ Each assignment is organized into its respective course folder. Inside each fold
 
 # Courses Overview
 
-1. Information Retrieval and Recommender Systems
+1. Information Retrieval and Recommender Systems  
    This course focuses on search engines, indexing, ranking algorithms, and recommendation techniques. Topics covered include:
       - Preprocessing, crawling and text laws
       - Information Retrieval models: Boolean and Vector model
@@ -22,7 +22,7 @@ Each assignment is organized into its respective course folder. Inside each fold
       - Network analysis
       - Locality sensitive hashing
   
-2. Advanced Multivariate Analysis
+2. Advanced Multivariate Analysis  
    This course delves into statistical methods for analyzing complex datasets. Topics include:
       - Density estimation
       - Clustering
