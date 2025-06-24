@@ -87,7 +87,7 @@ For IRRS assignments
    - **Ivan Antonino Arena** - Contributions made: [GitHub profile](https://github.com/ivanarena)  
 For AMA assignments
    - **Ruben Villanueva** - Contributions made: [GitHub profile](https://github.com/rubenVB01)
-   - **Marc Fortó Cornella** - Contributions made: [GitHub profile](https://github.com/marcforto14)
+   - **Marc Fortó Cornella** - Contributions made: [GitHub profile](https://github.com/marcforto14)  
 For SDM assignments
    - **Johannes Weinert** - Contributions made: [GitHub profile](https://github.com/joweinert)
    - **Rosen Dimov** - Contributions made: [GitHub profile](https://github.com/rosen2000)
